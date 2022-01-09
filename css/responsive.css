@@ -1,0 +1,84 @@
+
+
+/* --Responsive design-- */
+
+
+@media (max-width:992px){
+    /* 2 Navbar */
+    .owl-carousel.owl-loaded {
+        margin-bottom: 100px !important;
+      }
+    .banner-section {
+        padding: 4rem 0 6rem 0;
+      }
+
+      .team-section .client-slider-section .item .img-fluid{
+        margin-left: 43%;
+      }
+
+      .navbar .navbar-toggler {
+        outline: 0 !important;
+        outline-offset: 0;
+        border: none;
+      }
+      .navbar .navbar-toggler span i{
+        font-size: 30px;
+        color: #111;
+      }
+      .navbar .navbar-toggler .about{
+        font-size: 30px;
+        color: #fff;
+      }
+}
+
+@media (max-width:550px){
+    /* 2 Navbar */
+    .social-logo{
+      padding:0 ;
+    }
+    .social-logo .social-inline .d-inline-flex{
+      display: none !important;
+    }
+    
+}
+@media (max-width:420px){
+
+  h1{
+    font-size: 2rem;
+  }
+  h2{
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+  .banner-text{
+    font-size: 16px;
+  }
+
+  .bg-img-2 {
+    height: 250px;
+    border-radius: 10px;
+  }
+
+  .bg-img-2 .intro h2{
+    font-size: 2.2rem;
+    margin-bottom: 30px  !important;
+  }
+
+  .section-counter .counter .countup{
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+  }
+  .section-counter .counter .caption {
+    font-size: 10px;
+  }
+
+  .breadcumb-section{
+    font-size: 1.2rem;
+  }
+    
+}
+
+
+
+
+
