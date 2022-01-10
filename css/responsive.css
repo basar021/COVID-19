@@ -76,6 +76,11 @@
     font-size: 1.2rem;
   }
     
+    
+  .team-section .client-slider-section .item .img-fluid{
+    margin-left: 38%;
+  }
+    
 }
 
 
